@@ -1,0 +1,17 @@
+#imenu {
+    position: absolute;
+    background-color: rgb(235,235,235);
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 13%;
+    border: 0;
+    border-right: 1px solid gray; }
+
+#ibody {
+    position: relative;
+    top: 0;
+    left: 15%;
+    border: 0;
+    height: 950px;
+    width: 80%; }
